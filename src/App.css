@@ -4,3 +4,8 @@
     margin: 0;
     font-size: 2em;
 }
+
+#Interval,
+#Triad {
+    margin: 15px;
+}
